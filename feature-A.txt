@@ -1,1 +1,2 @@
 Feature A initial implementation
+Additional changes to Feature A
